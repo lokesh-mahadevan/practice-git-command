@@ -1,0 +1,16 @@
+hello Welcome to the basics  Git Command
+here the few thing you need to know
+Create the project 
+    MKDIR project_name / or / Git init for the Git Folder to Enable
+Access the Project 
+    CD Project_name
+Adding the branch to folder
+    git ADD . 
+    or
+    git ADD file_name
+save or Commit the file in the folder
+    git commit -m "message for the reason"
+Checking the Status of the Folder
+    git status
+          if It is Red comment the it not saved
+	  use the save command 
