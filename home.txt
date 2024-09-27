@@ -6,7 +6,20 @@ here we see the Basics command which are
  step 4: adding text in the file 
  step 5 : what are way edit the file
          
-	 step  -1 :   MKDIR project_name
+	 step - 1 :   MKDIR project_name
 	 ways : the command for the creating the project is  mkdir project name
 	        which create the file name in th folder name
-
+         step - 2 : git init 
+	 ways : the command for the history of the what we update in the text file need to show in the git hub
+	 step -3 : touch file_name.txt
+	           The simplest way to create a file in Git is by using the touch command.
+	 or 
+	           You can create a file with some initial content using the echo command.
+         command : echo "Hello " > filename.txt
+                   This command creates a file named filename.txt with the content "Hello " written inside it.
+         step -4: VI filename.txt
+	          You can edit the file directly using vi
+		  by add in the project history we need 
+         step -5: git add . or add filename 
+	          we need in the history need to update
+                  git commit -m "message"
