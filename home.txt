@@ -1,0 +1,12 @@
+hi there !
+here we see the Basics command which are
+ step 1: create the project 
+ step 2: holding the history of the project
+ step 3: create a new file
+ step 4: adding text in the file 
+ step 5 : what are way edit the file
+         
+	 step  -1 :   MKDIR project_name
+	 ways : the command for the creating the project is  mkdir project name
+	        which create the file name in th folder name
+
